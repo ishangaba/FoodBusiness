@@ -160,6 +160,21 @@ nav {
     100% { margin-left: 0; }
 }
 
+/* Catering Section */
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.responsive-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
 /* Summary Section */
 .summary {
     text-align: center;
